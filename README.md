@@ -9,7 +9,7 @@
 ### 🔧 Skills
 
 - SQL (PostgreSQL, MySQL) • Python (Pandas, Matplotlib, scikit-learn) • R  
-- Business Analysis • BPMN/UML • Figma  
+- Business Analysis • BPMN/UML • Power BI • Figma
 - Agile (Scrum, Kanban) • Statistics & Probability • English — C1
 
 ---
